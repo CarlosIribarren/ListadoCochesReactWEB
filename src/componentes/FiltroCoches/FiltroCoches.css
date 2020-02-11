@@ -1,0 +1,59 @@
+#btnFiltro {
+  margin: 1%;
+  padding: 1%;
+  border-radius: 10%;
+  float: right;
+  cursor: pointer;
+}
+
+#btnQuitarFiltro{
+  margin: 1% 1% 1% 0%;
+  padding: 1%;
+  border-radius: 10%;
+  float: right;
+  cursor: pointer;
+}
+
+#filtroForm {
+  margin: auto;
+}
+
+.row-filtro {
+  margin: 2%;
+}
+
+.input-filtro {
+width: 100%;
+}
+
+.botones-filtro-form{
+  float: right;
+  margin: 2%;
+  padding: 5%;
+  width: 100%;
+}
+
+#btnCerrarFiltro, #btnAplicarFiltro {
+  margin: 1%;
+  padding: 1%;
+  border-radius: 10%;
+  float: right;
+  cursor: pointer;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.error-input {
+  border-color: red;
+}
+.error-message {
+  color: red;
+}
+.oculto {
+  display: none;
+}
